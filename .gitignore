@@ -1,0 +1,35 @@
+# C++
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+
+# Libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Qt
+# MOC files
+*moc_*
+
+# UI files
+*.ui
+
+# QRC files
+*.qrc
+
+# Build directories
+build/
+release/
+debug/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
