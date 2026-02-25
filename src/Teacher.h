@@ -1,0 +1,1 @@
+#ifndef TEACHER_H\n#define TEACHER_H\n\nclass Teacher {\npublic:\n    Teacher();\n    void teach();\n};\n\n#endif // TEACHER_H
